@@ -89,7 +89,8 @@ int main() {
 # OUTPUT:
 
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-22 104040" src="https://github.com/user-attachments/assets/f91d27c8-b822-4c58-b931-dfb111c223bc" />
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 104040" src="https://github.com/user-attachments/assets/70d36360-b119-45d1-a25d-e20cc6e9b3f2" />
+
 
 # RESULT:
 
